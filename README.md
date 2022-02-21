@@ -1,16 +1,8 @@
-- 👋 Hi, I’m @kunzero11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 kunzero11/kunzero11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> hello bitches!!!! where is the fucking online appointment system for dental clinic services!!
-what date is it today 
-oh it's october 17, 2021
+---> amateur programmer programming through complex life
 
-chapter 1 is updating.....
-
-Introduction can be 
+ 
